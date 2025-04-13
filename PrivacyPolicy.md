@@ -1,27 +1,34 @@
 # Privacy Policy
 
 ## INTRODUCTION
-Thank you for choosing Xeta! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service (the "Service"). Please read this Privacy Policy carefully. By using the Service, you agree to the collection and use of information in accordance with this policy.
+Thank you for choosing Xeta! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service (the "Service"). By using the Service, you agree to the collection and use of information in accordance with this policy.
 
 ## INFORMATION WE COLLECT
 
 ### User Data
 To provide and enhance the Service, we collect the following types of information:
+
 - **User ID**: A unique identifier for each user on Discord.
 - **User Name**: The username associated with your Discord account.
 - **Guild ID**: A unique identifier for each server (guild) on Discord where Xeta is used.
 - **Guild Name**: The name of the server (guild) on Discord.
 - **Role ID**: Identifiers for roles within a server to manage permissions and features.
+- **Command Usage Data**: Information about the commands you interact with (such as music commands, role-based commands, and premium features).
+- **Premium Subscription**: Information about whether you are a premium user and the type of premium plan (weekly, monthly, yearly).
+
+### Bot-Related Data
+- **Server Data**: To customize and configure the bot for your server’s needs, such as roles, permissions, and music playback settings.
+- **Music and Voice Data**: Information about active voice channels, music queue, and DJ roles for music control. This information is stored temporarily while you interact with the music service.
 
 ## HOW WE USE YOUR INFORMATION
 
 We use the information we collect in the following ways:
 
 ### To Operate and Maintain the Service
-- **Setup**: Use server and user data to customize and configure the bot for your server's specific needs.
-- **DJ**: Manage roles and permissions for users who control the music playback.
-- **24/7**: Keep the bot connected to the voice channel and play music continuously.
-- **Premium Functions**: Validate and provide premium features and access.
+- **Server Setup**: Use server and user data to customize the bot for your server’s specific needs, including music setup, permissions, and premium features.
+- **Music Control**: Manage roles and permissions for users controlling the music playback in the server.
+- **Premium Features**: Validate and provide access to premium features based on your subscription plan (e.g., exclusive music features, continuous playback).
+- **Event Handling**: Manage events such as server-wide announcements or special events where specific permissions and roles are required.
 
 ### To Improve Our Services
 - Analyze how users interact with the Service to improve functionality and user experience.
